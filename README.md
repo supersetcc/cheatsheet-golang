@@ -1,4 +1,4 @@
-# Golang cheatsheet
+# Golang workspace
 
 ## TODO
 - (/) vim-go install
