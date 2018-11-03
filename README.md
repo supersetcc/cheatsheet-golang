@@ -38,3 +38,6 @@ endsnippet
 ## Reference
 - [Udemy Course Outline](https://docs.google.com/document/d/1jGdUyurQhPxtr_nd7z-0GKOjhrfdtkSjFKORa44favQ/edit#heading=h.vgdf3swpywdi)
 - [Udemy Course GolangTraining](https://github.com/GoesToEleven/GolangTraining)
+- [Golang Spec](https://golang.org/ref/spec)
+- [Effective Go](https://golang.org/doc/effective_go.html)
+- [Godoc](https://godoc.org/fmt)
